@@ -1,0 +1,37 @@
+#monetizze {
+    width: 240px;
+    display: table;
+    margin: auto;
+    padding: 20px;
+}
+
+#table-sorteio {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    text-align: center;
+    display: table;
+    margin: auto;
+}
+
+#table-sorteio thead th{
+    padding: 8px 15px;
+    background-color: #004561;
+    color: #FFFFFF;
+}
+
+#table-sorteio tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#table-sorteio tr:hover {
+    background-color: #DDDDDD;
+}
+
+#table-sorteio td {
+    padding: 8px 15px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
